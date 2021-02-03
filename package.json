@@ -1,6 +1,7 @@
 {
   "name": "vity-react-ts",
-  "version": "0.0.0",
+  "author": "ahmdtalat https://twitter.com/ahmdtalat_",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
