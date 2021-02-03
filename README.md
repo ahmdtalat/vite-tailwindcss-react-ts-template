@@ -4,6 +4,10 @@
 
 ## Getting started
 
-$ git clone https://github.com/ahmdtalat/vity-tailwindcss-react-ts-template
+```console
+ git clone https://github.com/ahmdtalat/vite-tailwindcss-react-ts-template
 
-$ yarn dev
+ yarn
+
+ yarn dev
+ ```
